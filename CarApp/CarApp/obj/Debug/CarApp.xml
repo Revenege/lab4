@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CarApp
+</name>
+</assembly>
+<members>
+<member name="T:CarApp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CarApp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CarApp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CarApp.Car.#ctor">
+<summary>
+Default Constructor - Creates a new Car Object
+</summary>
+</member>
+<member name="M:CarApp.Car.#ctor(System.String,System.String,System.Int32,System.Double,System.Boolean)">
+ <summary>
+ Parameterized Constructor - Creates a new Car Object
+ </summary>
+ <param name="newMake"></param>
+ <param name="newModel"></param>
+ <param name="newYear"></param>
+ <param name="newPrice"></param>
+ <param name="statusUpdate"></param>
+</member>
+<member name="P:CarApp.Car.GetCount">
+ <summary>
+ Gets the number of entries
+ </summary>
+ <returns>Integer</returns>
+</member>
+<member name="P:CarApp.Car.GetIdNumber">
+ <summary>
+ Gets the ID number of the vehicle
+ </summary>
+ <returns>Integer</returns>
+</member>
+<member name="P:CarApp.Car.MakeStatus">
+ <summary>
+ Gets or Sets the the make of the vehicle
+ </summary>
+ <returns>String</returns>
+</member>
+<member name="P:CarApp.Car.ModelStatus">
+ <summary>
+ Gets or Sets the model of the vehicle
+ </summary>
+ <returns>String</returns>
+</member>
+<member name="P:CarApp.Car.PriceStatus">
+ <summary>
+ Gets or Sets the price of the vehicle
+ </summary>
+ <returns>Double</returns>
+</member>
+<member name="P:CarApp.Car.YearStatus">
+ <summary>
+ Gets or Sets the year of the car
+ </summary>
+ <returns>Integer</returns>
+</member>
+<member name="P:CarApp.Car.QualityStatus">
+ <summary>
+ Gets or Sets whether the car is new or not
+ </summary>
+ <returns>Boolean</returns>
+</member>
+<member name="M:CarApp.Car.GetCarData">
+ <summary>
+ Returns a string representation of the car object
+ </summary>
+ <returns>String</returns>
+</member>
+</members>
+</doc>

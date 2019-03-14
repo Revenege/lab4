@@ -1,0 +1,12 @@
+C:\Users\reven\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\reven\source\repos\CarApp\CarApp\bin\Debug\CarApp.exe
+C:\Users\reven\source\repos\CarApp\CarApp\bin\Debug\CarApp.pdb
+C:\Users\reven\source\repos\CarApp\CarApp\bin\Debug\CarApp.xml
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.vbprojAssemblyReference.cache
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.Resources.resources
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.vbproj.GenerateResource.cache
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.vbproj.CoreCompileInputs.cache
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.exe
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.xml
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.pdb
+C:\Users\reven\source\repos\CarApp\CarApp\obj\Debug\CarApp.frmCarInvent.resources
